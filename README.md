@@ -2,7 +2,7 @@
 
 👋 Hi, We are a group specializing in developing web and app services. 
 
-We are developing Yolk wallet.
+We are developing Yolk wallet and other service.
 
 Yolk wallet helps you manage gift cards and coupons. 
 
