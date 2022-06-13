@@ -1,4 +1,4 @@
-# 👋 Hi, Welcome to Noleunja Company.
+# 👋 Hi, Welcome to Noleunja Software.
 
 👋 Hi, We are a group specializing in developing web and app services. 
 
